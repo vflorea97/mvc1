@@ -1,0 +1,7 @@
+201,Octavian,Miuta,octa99@coco.ro,22,meresipere,1
+202,Mihai,Savu,mihai.savu@yahoo.com,19,mihai4321,2
+203,Alexandru,Ion,alex.ion878@gmail.com,23,fanepisica17,3
+204,Petre,Amariei,amariei.petre@yahoo.com,20,10amariei10,4
+205,Petre,Amariei,amariei.petre@yahoo.com,20,10amariei10,5
+206,Alendru,Ion,alex.ion878@gmail.com,23,fanepisica17,6
+207,xandru,Ion,alex.ion878@gmail.com,23,fanepisica17,7
